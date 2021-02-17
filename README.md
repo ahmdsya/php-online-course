@@ -10,6 +10,6 @@ Sistem kursus/kelas online sederhana dengan php (versi 7.3) native oop dan query
 
 ## Screenshot
 
-<img src="screenshot/screenshot_1.png" alt="halaman kriteria" style="width: 100%;"/>
+<img src="screenshot/screenshot_01.png" alt="halaman admin" style="width: 100%;"/>
 
-<img src="screenshot/screenshot_2.png" alt="matriks nilai kriteria" style="width: 100%;"/>
+<img src="screenshot/screenshot_02.png" alt="halaman user" style="width: 100%;"/>
