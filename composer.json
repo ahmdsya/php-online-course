@@ -1,0 +1,11 @@
+{
+    "config": {
+        "platform": {
+            "php": "7.3"
+        }
+    },
+    "require": {
+        "php": "^7.3",
+        "usmanhalalit/pixie": "2.*@dev"
+    }
+}
